@@ -1,0 +1,24 @@
+[20/06/2024 20:15:38] Error: Table 'full_stack_g8.courser' doesn't exist
+
+[20/06/2024 21:03:05] Error: ENOENT: no such file or directory, unlink 'C:\xampp\htdocs\fullstack\image_g8\null'
+
+[20/06/2024 21:03:07] Error: ENOENT: no such file or directory, unlink 'C:\xampp\htdocs\fullstack\image_g8\null'
+
+[20/06/2024 21:04:46] Error: ENOENT: no such file or directory, unlink 'C:\xampp\htdocs\fullstack\image_g8\null'
+
+[20/06/2024 21:07:27] Error: ENOENT: no such file or directory, unlink 'C:\xampp\htdocs\fullstack\image_g8\null'
+
+[06/09/2024 20:39:47] Error: ENOENT: no such file or directory, unlink 'C:\xampp\htdocs\fullstack\image_g8\ImageUpload-1718806451015-811285334'
+
+[06/09/2024 20:41:19] Error: ENOENT: no such file or directory, unlink 'C:\xampp\htdocs\fullstack\image_g8\ImageUpload-1719240433336-696083736.png'
+
+[06/09/2024 20:44:30] Error: ENOENT: no such file or directory, unlink 'C:\xampp\htdocs\fullstack\image_g8\ImageUpload-1718893223738-32587458.png'
+
+[06/09/2024 20:46:39] Error: ENOENT: no such file or directory, unlink 'C:\xampp\htdocs\fullstack\image_g8\ImageUpload-1718893223738-32587458.png'
+
+[06/09/2024 20:46:45] Error: ENOENT: no such file or directory, unlink 'C:\xampp\htdocs\fullstack\image_g8\ImageUpload-1718893223738-32587458.png'
+
+[13/09/2024 21:53:45] Error: ENOENT: no such file or directory, unlink 'C:\xampp\htdocs\fullstack\image_g8\ImageUpload-1725882756032-942084071.png'
+
+[13/09/2024 21:54:20] Error: ENOENT: no such file or directory, unlink 'C:\xampp\htdocs\fullstack\image_g8\ImageUpload-1725882836457-531982473.jpeg'
+

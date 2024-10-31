@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/makara/static/css/main.d746aee1.css",
+    "main.js": "/makara/static/js/main.449edcd5.js",
+    "static/js/453.5def2713.chunk.js": "/makara/static/js/453.5def2713.chunk.js",
+    "static/media/Makara.jpg": "/makara/static/media/Makara.bb73b76da4fdb1be0795.jpg",
+    "static/media/coding2.png": "/makara/static/media/coding2.92a0c432fa8b4765bc37.png",
+    "static/media/logo.svg": "/makara/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/react-2.svg": "/makara/static/media/react-2.e68b35f4774979ae220b1d5d7b345b00.svg",
+    "static/media/next-js.svg": "/makara/static/media/next-js.1b2b52c044b9dcea988e68b966864c5a.svg",
+    "static/media/tailwindcss.svg": "/makara/static/media/tailwindcss.68603ef4173093c409dcd59733df7ecf.svg",
+    "index.html": "/makara/index.html",
+    "static/media/css-3.svg": "/makara/static/media/css-3.4e47c3122b8d2476a02f97dcfcb28640.svg",
+    "static/media/html-1.svg": "/makara/static/media/html-1.f318c8b1d5945fa9adc827ae94849cb1.svg",
+    "static/media/javascript-1.svg": "/makara/static/media/javascript-1.b879f838faf1cb951d1c2230fd933a39.svg",
+    "main.d746aee1.css.map": "/makara/static/css/main.d746aee1.css.map",
+    "main.449edcd5.js.map": "/makara/static/js/main.449edcd5.js.map",
+    "453.5def2713.chunk.js.map": "/makara/static/js/453.5def2713.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d746aee1.css",
+    "static/js/main.449edcd5.js"
+  ]
+}

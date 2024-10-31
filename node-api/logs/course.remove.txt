@@ -1,0 +1,26 @@
+[20/06/2024 21:28:54] ReferenceError: OldImage is not defined
+
+[20/06/2024 21:29:42] Error: Cannot delete or update a parent row: a foreign key constraint fails (`full_stack_g8`.`classroom`, CONSTRAINT `classroom_ibfk_2` FOREIGN KEY (`CourseId`) REFERENCES `course` (`Id`))
+
+[06/09/2024 20:37:51] Error: ENOENT: no such file or directory, unlink 'C:\xampp\htdocs\fullstack\image_g8\ImageUpload-1718806843539-418879926.png'
+
+[06/09/2024 20:39:23] Error: ENOENT: no such file or directory, unlink 'C:\xampp\htdocs\fullstack\image_g8\null'
+
+[06/09/2024 20:39:28] Error: ENOENT: no such file or directory, unlink 'C:\xampp\htdocs\fullstack\image_g8\ImageUpload-1718806451015-811285334'
+
+[06/09/2024 20:42:46] Error: ENOENT: no such file or directory, unlink 'C:\xampp\htdocs\fullstack\image_g8\ImageUpload-1718806843539-418879926.png'
+
+[06/09/2024 20:42:55] Error: ENOENT: no such file or directory, unlink 'C:\xampp\htdocs\fullstack\image_g8\null'
+
+[09/09/2024 17:26:42] Error: EPERM: operation not permitted, unlink 'C:\xampp\htdocs\fullstack\image_g8'
+
+[12/09/2024 14:39:31] Error: Cannot delete or update a parent row: a foreign key constraint fails (`fullstack-elearning`.`classroom`, CONSTRAINT `classroom_ibfk_2` FOREIGN KEY (`CourseId`) REFERENCES `course` (`Id`))
+
+[12/09/2024 14:40:38] Error: Cannot delete or update a parent row: a foreign key constraint fails (`fullstack-elearning`.`classroom`, CONSTRAINT `classroom_ibfk_2` FOREIGN KEY (`CourseId`) REFERENCES `course` (`Id`))
+
+[12/09/2024 14:42:12] Error: ENOENT: no such file or directory, unlink 'C:\xampp\htdocs\fullstack\image_g8\ImageUpload-1725882756032-942084071.png'
+
+[12/09/2024 14:43:42] Error: ENOENT: no such file or directory, unlink 'C:\xampp\htdocs\fullstack\image_g8\ImageUpload-1725882756032-942084071.png'
+
+[12/09/2024 14:49:52] Error: ENOENT: no such file or directory, unlink 'C:\xampp\htdocs\fullstack\image_g8\ImageUpload-1725882756032-942084071.png'
+

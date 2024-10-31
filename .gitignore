@@ -1,0 +1,4 @@
+node_modules/
+web_react/node_modules/.cache/
+node_modules/
+node-api/node_modules/.cache/
