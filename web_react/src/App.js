@@ -37,7 +37,7 @@ function App() {
   };
 
   return (
-    <BrowserRouter basename="/makara">
+    <BrowserRouter basename="/">
       <Routes>
         <Route element={<MainLayout />}>
           <Route path="/" element={<HomePage />} />
