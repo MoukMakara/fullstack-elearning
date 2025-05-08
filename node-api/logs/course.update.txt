@@ -22,3 +22,7 @@
 
 [13/09/2024 21:54:20] Error: ENOENT: no such file or directory, unlink 'C:\xampp\htdocs\fullstack\image_g8\ImageUpload-1725882836457-531982473.jpeg'
 
+[05/05/2025 16:45:31] Error: ENOENT: no such file or directory, unlink 'C:\xampp\htdocs\fullstack\image_g8\ImageUpload-1718806793034-720831673.undefined'
+
+[05/05/2025 16:45:42] Error: ENOENT: no such file or directory, unlink 'C:\xampp\htdocs\fullstack\image_g8\ImageUpload-1718806793034-720831673.undefined'
+
