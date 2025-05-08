@@ -12,7 +12,7 @@ app.use(cors({ origin: "*" }));
 app.use(express.json()); // for parsing application/json
 app.use(express.urlencoded({ extended: true })); // for parsing application/x-www-form-urlencoded
 
-app.get("/", (req, res) => {
+app.get("/api", (req, res) => {
   res.send("Hello Express in Node.js. My name is Mouk Makara");
 });
 
